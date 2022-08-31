@@ -1,0 +1,443 @@
+successfully added Department pnimitA     
+successfully added Department pnimitB     
+successfully added Department pnimitC     
+successfully added Department pnimitD     
+successfully added Department pnimitE     
+successfully added Department pnimitF    
+successfully added Department pnimitG
+
+successfully added Doctor Mead Bossons
+successfully added Doctor Ibbie Penas
+successfully added Doctor Enos Stanmore
+successfully added Doctor Huey Lumbers
+successfully added Doctor Drew Titman
+successfully added Doctor Garnet Carson
+successfully added Doctor Evania Pechell
+successfully added Doctor Joela Weddeburn - Scrimgeour
+successfully added Doctor Michelina Boynton
+successfully added Doctor Fritz Glascott
+successfully added Doctor Sterne Colchett
+successfully added Doctor Flora Currin
+successfully added Doctor Flemming Broderick
+successfully added Doctor Pincus Balchen
+successfully added Doctor Roz Pipkin
+successfully added Doctor Trip Dyter
+successfully added Doctor Kermie McDonnell
+successfully added Doctor Prescott Navarijo
+successfully added Doctor Waiter Fillan
+successfully added Doctor Allie Heberden
+successfully added Doctor Kienan McReedy
+successfully added Doctor Audrey Pool
+successfully added Doctor Jonah Mannakee
+successfully added Doctor Kerrill Dufer
+successfully added Doctor Terri-jo Moylan
+successfully added Doctor Godard Romao
+successfully added Doctor Garreth Gay
+successfully added Doctor Karlotte Tomlett
+successfully added Doctor Bekki Dorber
+successfully added Doctor Robers Edmund
+successfully added Doctor Reinhold Marciskewski
+successfully added Doctor Sheri Danhel
+successfully added Doctor Morrie Painter
+successfully added Doctor Errol Bagnall
+successfully added Doctor Dionis Twitchings
+successfully added Doctor Marietta Bithell
+successfully added Doctor Elfrida Joust
+successfully added Doctor Claus Jaffray
+successfully added Doctor Harley Dressell
+successfully added Doctor Ricky Turle
+successfully added Doctor Edyth Daoust
+successfully added Doctor Nerita Comusso
+successfully added Doctor Jordon Kincade
+successfully added Doctor Torr Knok
+successfully added Doctor Stefano Meininger
+successfully added Doctor Rogers Mackneis
+successfully added Doctor Lena Simionescu
+successfully added Doctor Oby Kitto
+successfully added Doctor Gert Crunkhorn
+successfully added Doctor Merridie Brockman
+successfully added Doctor Shepherd Rookesby
+successfully added Doctor Kelci Gouinlock
+successfully added Doctor Gianina Swaden
+successfully added Doctor Gabe Hebborne
+successfully added Doctor Hope Trussman
+successfully added Doctor Annabell Caygill
+successfully added Doctor Colline Heinel
+successfully added Doctor Bliss Boanas
+successfully added Doctor Carmine Leaburn
+successfully added Doctor Latrina Denerley
+successfully added Doctor Sayre Daviot
+successfully added Doctor Skippy Speak
+successfully added Doctor Aloise Airs
+successfully added Doctor Bertie Rawlison
+successfully added Doctor Camey Waplinton
+successfully added Doctor Olivia Moffett
+
+successfully added Nurse Hally Montel
+successfully added Nurse Riobard Eddisforth
+successfully added Nurse Darsey Elsom
+successfully added Nurse Darsey Elsom
+successfully added Nurse Rene Whelband
+successfully added Nurse Nonnah Andrag
+successfully added Nurse Carey Wason
+successfully added Nurse Colline McMonies
+successfully added Nurse Melva Schollick
+successfully added Nurse Melvand Schollic
+successfully added Nurse Norrie Ferenczi
+successfully added Nurse Rikki Baptista
+successfully added Nurse Weber Longfoot
+successfully added Nurse Freddi Piddick
+successfully added Nurse Frederigo Harbard
+successfully added Nurse Perla Wraighte
+successfully added Nurse Perl Wraighter
+successfully added Nurse Deeanne Toffolo
+successfully added Nurse Chrotoem Cornfoot
+successfully added Nurse Hollisa Hubery
+successfully added Nurse Hollis Huberyia
+successfully added Nurse Orelee Skirveni
+successfully added Nurse Oreleet Skirven
+successfully added Nurse Teirtza Toma
+successfully added Nurse Euginer Skates
+successfully added Nurse Eugine Skatesa
+successfully added Nurse Tirrell Leyninye
+successfully added Nurse Doria Soles
+successfully added Nurse Raimundo Brodeau
+successfully added Nurse Jolynn Stainburn
+successfully added Nurse Ashli Todari
+successfully added Nurse Timothea Croft
+successfully added Nurse Lib O'Cooney
+successfully added Nurse Alastair Stare
+successfully added Nurse Syd Trime
+successfully added Nurse Skipper Monshall
+successfully added Nurse Emlent Roddick
+successfully added Nurse Emlen Roddick
+successfully added Nurse Jacenta Durber
+successfully added Nurse Shawn Huggins
+successfully added Nurse Katherina Castleton
+successfully added Nurse Osmond Boswood
+successfully added Nurse Connie Kleuer
+successfully added Nurse Retha Backwell
+successfully added Nurse Corey Woolgar
+successfully added Nurse Ricki Kobsch
+successfully added Nurse Upton Waterworth
+successfully added Nurse Francene Merwede
+successfully added Nurse Erina Goman
+successfully added Nurse Sloane Gorini
+successfully added Nurse Idalina Mcwhinney
+successfully added Nurse Cody Raspin
+successfully added Nurse Moina Reeders
+successfully added Nurse Trey Claybourne
+successfully added Nurse Ted Harverson
+successfully added Nurse Rea Loughan
+successfully added Nurse Robena Ballister
+successfully added Nurse Ronnie Adhams
+successfully added Nurse Preston Franzettoini
+successfully added Nurse Blair Huygens
+successfully added Nurse Celestyna Marlor
+successfully added Nurse Rriocard Beattie
+successfully added Nurse Sondra Goodlud
+successfully added Nurse Laetitia Dalligan
+successfully added Nurse Gerri Cicullo
+successfully added Nurse Chancey MacDougal
+
+Succses
+successfully added Patient Izzy Clutram
+Succses
+successfully added Patient Emilia O'Nion
+Succses
+successfully added Patient Kiele Heball
+Succses
+successfully added Patient Garvin Blant
+Succses
+successfully added Patient Elyssa Larsen
+Succses
+successfully added Patient Evelyn Dureden
+Succses
+successfully added Patient Jacquelyn Sibbe
+Succses
+successfully added Patient Jethro Kernell
+Succses
+successfully added Patient Redford O' Scallan
+Succses
+successfully added Patient Wade Diggar
+Succses
+successfully added Patient Lemard Tawton
+Succses
+successfully added Patient Lemar Tawton
+Succses
+successfully added Patient Zonnya Gladman
+Succses
+successfully added Patient Vikky Acreman
+Succses
+successfully added Patient Benjie O'Garmen
+Succses
+successfully added Patient Yoshiko Roder
+Succses
+successfully added Patient Adelaida Inkle
+Succses
+successfully added Patient Odetta Sprulls
+Succses
+successfully added Patient Patin Gaitskell
+Succses
+successfully added Patient Thelma Mannin
+Succses
+successfully added Patient Jim De Coursey
+Succses
+successfully added Patient Zacherie Redhole
+Succses
+successfully added Patient Patten Dyos
+Succses
+successfully added Patient Corrie Berkeley
+Succses
+successfully added Patient Patrica Weaben
+Succses
+successfully added Patient Orlyna Dosset
+Succses
+successfully added Patient Orly Dossett
+Succses
+successfully added Patient Trudie Milsom
+Succses
+successfully added Patient Susannah Sherrett
+Succses
+successfully added Patient Mayor Spurret
+Succses
+successfully added Patient Benton Dibbin
+Succses
+successfully added Patient Kathryn Crenshaw
+Succses
+successfully added Patient Vasilis Gallen
+Succses
+successfully added Patient Corby Minchinden
+Succses
+successfully added Patient Liv Bretland
+Succses
+successfully added Patient Glen Yerill
+Succses
+successfully added Patient Angelika Fahy
+Succses
+successfully added Patient Adelaida Naismith
+Succses
+successfully added Patient Wainwright Picopp
+Succses
+successfully added Patient Melody Cavozzi
+Succses
+successfully added Patient Hervey Ogg
+Succses
+successfully added Patient Tonnie Cushelly
+Succses
+successfully added Patient Gavan Breeton
+Succses
+successfully added Patient Deloria Pfaff
+Succses
+successfully added Patient Sunny Gogarti
+Succses
+successfully added Patient Sunny Gogarty
+Succses
+successfully added Patient Edin Harburtson
+Succses
+successfully added Patient Giff Stares
+Succses
+successfully added Patient Idelle Winchurch
+Succses
+successfully added Patient Sherwynd Franck
+Succses
+successfully added Patient Jackson Haveline
+Succses
+successfully added Patient Jackson Havelineg
+Succses
+successfully added Patient Ardra Sterley
+Succses
+successfully added Patient Dalt Ream
+Succses
+successfully added Patient Tootsie Baughan
+Succses
+successfully added Patient Wendell Kilmary
+Succses
+successfully added Patient Durant Klousner
+Succses
+successfully added Patient Donaugh Magne
+Succses
+successfully added Patient Jakob Swindlehurst
+Succses
+successfully added Patient Coretta Earie
+Succses
+successfully added Patient Gustav Freemantle
+Succses
+successfully added Patient Melita Basnett
+Succses
+successfully added Patient Wendell MacLoughlin
+Succses
+successfully added Patient Kaci Goshaw
+Succses
+successfully added Patient Kacy Goshawk
+Succses
+successfully added Patient Clemmie Bugg
+Succses
+successfully added Patient Lenka Necolds
+Succses
+successfully added Patient Candra Harvett
+Succses
+successfully added Patient Zaria Niemetz
+Succses
+successfully added Patient Chicky Showte
+Succses
+successfully added Patient Tally Brazenor
+Succses
+successfully added Patient Alina Fassan
+Succses
+successfully added Patient Corrina Charter
+Succses
+successfully added Patient Rodolphe Patient
+Succses
+successfully added Patient Maryjane Jiracek
+Succses
+successfully added Patient Danila Barth
+Succses
+successfully added Patient Kin Willcock
+Succses
+successfully added Patient Rhianna Greep
+Succses
+successfully added Patient Katharyn Havock
+Succses
+successfully added Patient Brent Brownbridge
+Succses
+successfully added Patient Philipa Woodroffe
+Succses
+successfully added Patient Carmita Punshon
+Succses
+successfully added Patient De Bellis Annadiane
+Succses
+successfully added Patient Backwell Retha
+The Status 105 is Not In Range Of 0 To 100
+successfully added Patient Woolgar Corey
+The Status -8 is Not In Range Of 0 To 100
+successfully added Patient Kobsch Ricki
+Succses
+successfully added Patient Waterworth Upton
+Succses
+successfully added Patient Merwede Francene
+Succses
+successfully added Patient Goman Erina
+Succses
+successfully added Patient Gorini Sloane
+Succses
+successfully added Patient Right Rlick
+
+successfully added Disease Corona
+successfully added Disease Sars
+successfully added Disease Flu
+successfully added Disease Hernia
+successfully added Disease Epilepsy
+successfully added Disease Asthma
+successfully added Disease Aids
+successfully added Disease Pig-Flu
+Exceptions.DiseaseWithNoSymptomsException: This Disease Has No Symptoms
+failed to add Disease Corona2
+
+successfully added Patient Report of 1
+successfully added Patient Report of 1
+successfully added Patient Report of 2
+successfully added Patient Report of 3
+successfully added Patient Report of 4
+successfully added Patient Report of 5
+successfully added Patient Report of 6
+successfully added Patient Report of 7
+successfully added Patient Report of 8
+successfully added Patient Report of 8
+successfully added Patient Report of 9
+successfully added Patient Report of 10
+successfully added Patient Report of 11
+successfully added Patient Report of 11
+successfully added Patient Report of 11
+successfully added Patient Report of 12
+successfully added Patient Report of 13
+successfully added Patient Report of 14
+successfully added Patient Report of 15
+successfully added Patient Report of 16
+successfully added Patient Report of 17
+successfully added Patient Report of 18
+successfully added Patient Report of 19
+successfully added Patient Report of 20
+successfully added Patient Report of 21
+successfully added Patient Report of 22
+successfully added Patient Report of 22
+successfully added Patient Report of 1
+successfully added Patient Report of 1
+successfully added Patient Report of 23
+successfully added Patient Report of 24
+successfully added Patient Report of 25
+successfully added Patient Report of 26
+successfully added Patient Report of 27
+successfully added Patient Report of 10
+successfully added Patient Report of 11
+
+successfully removed Patient 69
+failed to remove Patient 145
+
+
+
+
+Exceptions.CannotReleasePatientException: Cannot Release This Patient Because  He Have The Note: STANDBY And Not The Proper Release Note: CAN_GO_HOME
+Exceptions.CannotReleasePatientException: Cannot Release This Patient Because  He Have The Note: STANDBY And Not The Proper Release Note: MOVE_TO_HOTEL
+successfully released recover Patient Patient name: Wendell MacLoughlin
+Exceptions.CannotReleasePatientException: Cannot Release This Patient Because  He Have The Note: STANDBY And Not The Proper Release Note: MOVE_TO_HOTEL
+
+Exceptions.SubDepartmentNotEmptyException: Cannot Delete SubDepartment With ID: 4 Beacuse Its Not Empty
+Exceptions.SubDepartmentNotEmptyException: Cannot Delete SubDepartment With ID: 5 Beacuse Its Not Empty
+
+getDiseasesByRange results: 
+Disease [name=Sars, symptoms=[COUGH, DIFFICULTY_BREATHING, FEVER]]
+Disease [name=Pig-Flu, symptoms=[COUGH, DIFFICULTY_BREATHING, FEVER]]
+Disease [name=Hernia, symptoms=[BACKHACHES]]
+Disease [name=Flu, symptoms=[COUGH, FEVER]]
+Disease [name=Epilepsy, symptoms=[TIREDNESS, FAINTING]]
+
+getAllBadConditionPatients results: 
+Patient name: Wade Diggar, Status is: 56, Condition SERIOUS
+Patient name: Danila Barth, Status is: 37, Condition CRITICAL
+Patient name: Corrina Charter, Status is: 34, Condition CRITICAL
+Patient name: Garvin Blant, Status is: 30, Condition CRITICAL
+Patient name: Chicky Showte, Status is: 24, Condition CRITICAL
+Patient name: Izzy Clutram, Status is: 21, Condition CRITICAL
+
+findHardestWorkingNurse results: 
+Nurse name: Rikki Baptista
+
+getCriticalSteroidsNeuPatients results: 
+Patient name: Danila Barth, Status is: 38, Condition CRITICAL
+Patient name: Garvin Blant, Status is: 31, Condition CRITICAL
+Patient name: Corrina Charter, Status is: 35, Condition CRITICAL
+Patient name: Izzy Clutram, Status is: 22, Condition CRITICAL
+Patient name: Chicky Showte, Status is: 25, Condition CRITICAL
+
+getBestStatusSubDepartments results: 
+SubDepartment [id=1, department=Department : pnimitA     , spec=UROLOGY]], Number Of Patients is: 12
+SubDepartment [id=14, department=Department : pnimitF    , spec=PSYCHIATRY]], Number Of Patients is: 4
+
+getDoctorBySpec results: 
+Doctor name: Jonah Mannakee, Specialization: EMERGENCY, Number Of Shifts is 19
+Doctor name: Prescott Navarijo, Specialization: EMERGENCY, Number Of Shifts is 0
+
+getAllDifficultBreathingPatients results: 
+Patient name: Deloria Pfaff, Status is: 80, Condition GOOD , SubDepartment ID is: 9
+Patient name: Hervey Ogg, Status is: 23, Condition CRITICAL , SubDepartment ID is: 9
+Patient name: Benton Dibbin, Status is: 48, Condition SERIOUS , SubDepartment ID is: 8
+Patient name: Melody Cavozzi, Status is: 52, Condition SERIOUS , SubDepartment ID is: 8
+Patient name: Gavan Breeton, Status is: 40, Condition SERIOUS , SubDepartment ID is: 8
+Patient name: Vasilis Gallen, Status is: 28, Condition CRITICAL , SubDepartment ID is: 7
+Patient name: Tonnie Cushelly, Status is: 26, Condition CRITICAL , SubDepartment ID is: 7
+
+treatDiseases results: 
+Patient name: Glen Yerill, Status is: 42, Condition SERIOUS
+Patient name: Mayor Spurret, Status is: 11, Condition CRITICAL
+Patient name: Wainwright Picopp, Status is: 50, Condition SERIOUS
+Patient name: Adelaida Naismith, Status is: 64, Condition FAIR
+Patient name: Corby Minchinden, Status is: 60, Condition FAIR
+Patient name: Angelika Fahy, Status is: 28, Condition CRITICAL
+Patient name: Benton Dibbin, Status is: 48, Condition SERIOUS
+Patient name: Kathryn Crenshaw, Status is: 77, Condition FAIR
+Patient name: Liv Bretland, Status is: 38, Condition CRITICAL
+
+treatPatients results: 
+Patient name: Jim De Coursey, Status is: 80, Condition GOOD ,ID is: 21
+
